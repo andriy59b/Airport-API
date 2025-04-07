@@ -6,6 +6,7 @@ API service for airport management written on DRF
 
 1. Install PostgresSQL and create a database.
 
+
    ```bash
    git clone https://github.com/Veinmax/Airport-API.git
    cd Airport-API
